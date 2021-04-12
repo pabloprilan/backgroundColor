@@ -11,12 +11,12 @@
         <div class= "nav-center">
             <h4>Color Flipper</h4>
             <ul class="nav-links">
-                <li>
+                <!-- <li>
                     <a href="index.html">Simple</a>
                 </li>
                 <li>
                     <a href="hex.html">Hex</a>
-                </li>
+                </li> -->
             </ul>
 
         </div>
